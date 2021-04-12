@@ -107,7 +107,10 @@ a {
     border-radius: 25px;
     font-size: 25px;
     width:18%;
+}
 
+ul li {
+    color: white;
 }
 
 .maincontent {
